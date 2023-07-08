@@ -1,3 +1,2 @@
-.temp
-credit_card_fraud/*.csv
-credit_card_default/*.xls
+*.csv
+*.xls
