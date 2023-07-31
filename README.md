@@ -1,4 +1,4 @@
-# Credit Card Default Prediction
+# Credit Card Default Risk Prediction
 
 ## Objectives
 
